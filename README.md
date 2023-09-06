@@ -1,2 +1,1 @@
-# Prometheus-and-Grafana
-Prometheus-and-Grafana
+# prometheus-monitoring
